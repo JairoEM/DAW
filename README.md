@@ -1,2 +1,2 @@
 # DAW
-Places where I am gonna upload all my class excercices (BASH).
+Place where I am gonna upload all my class excercices (BASH).
